@@ -1,0 +1,36 @@
+03.12.2025 - company with deep ties to Israeli intelligence oversees cyber security across more than seventy US government agencies, including the Department of Defense and Homeland Security
+https://www.donotpanic.news/p/the-former-israeli-spies-overseeing
+
+
+Axonius https://cyberscoop.com/axonius-4-million-seed-funding-unit-8200
+2017
+platform aims to give “visibility and control over all types and numbers of devices”
+“Whether it’s Linux servers in the cloud or corporate employee’s laptops running Windows, I would do it all in the same fashion within the same plugin, 
+and the platform would know how to use the infrastructure that manages that device,” Sysman said.
+
+one of the fastest cybersecurity companies ever
+
+
+3 founders who met in the 2010s while working on the same team within Israel’s Unit 8200 spy service:
+1. CEO Dean Sysman - CTO Cymmetria and a security researcher in the Israel Defense Forces’ intelligence corps; 
+https://www.linkedin.com/in/deansysman
+2. CTO Avidor Bartov - left IDF 06.2017 after rising to become a research team leader; 
+
+3. CPO Ofri Shur - Israeli intelligence veteran who has been a security researcher at CheckPoint and KayHut since he left military service.
+
+Sysman left IDF in 2014 while Shur and Bartov stayed on until 2017
+Haifa University, Etgar gifted program - Sysman started bsc computer science at age of 15, 2005-2009
+
+1996 - 2014 -> Shur & Bartov served with Tomer 3 years
+1990 - 2008
+
+Dead Sysman worked at Mellanox too, 
+
+Axonius has closed on a $4 million seed round, https://www.linkedin.com/pulse/two-weeks-term-sheet-axonius-funding-story-yoav-leitersdorf
+led by YL Ventures, with participation from Vertex Ventures, Emerge and Ron Reiter. 
+From the outset, we knew that this was a special opportunity – and we moved from introduction to a signed term sheet in only 16 calendar days.
+
+
+
+Cymmetria - cyber deception and decoys 8200 founder
+cyber deception solution based on breadcrumbs and decoys designed to lead attackers away from valuable targets.
